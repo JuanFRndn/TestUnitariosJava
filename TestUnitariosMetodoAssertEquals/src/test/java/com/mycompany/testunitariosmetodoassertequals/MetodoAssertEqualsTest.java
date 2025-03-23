@@ -30,5 +30,4 @@ public class MetodoAssertEqualsTest {
     void test3(){
         assertEquals("","\n");
     }
-    
 }
